@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jeff Hemminger 👋
 
-<!--
-**jaiboba/jaiboba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Software Engineer and Remote Sensing Specialist based in Japan.
 
-Here are some ideas to get you started:
+- 🌐 **Website:** [jeff.hemminger.haus](https://jeff.hemminger.haus)
+- 🔬 **ORCID:** [orcid.org/0009-0008-2779-4687](https://orcid.org/0009-0008-2779-4687)
+- 💻 **Public Code:** [gitweb.hemminger.haus](https://gitweb.hemminger.haus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+* 🛰️ **Domain Expertise:** Remote sensing, spectral signatures, and marine biology conservation platforms.
+* 🛠️ **Tech Stack:** Python, Rust, Java, Linux containers, and orchestration platforms.
+* 📐 **Interests:** Functional programming, category theory, machine learning, and deep learning.
+* 🏃 **Outside Engineering:** Ultramarathon and trail running.
+
+---
+
+*Contact & Verification: jeff.hemminger.haus*
